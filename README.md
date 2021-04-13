@@ -6,6 +6,6 @@
 `Ongoing work. Code source to be published soon.`
 
 
-| ![sample](https://raw.githubusercontent.com/cjuliani/tf-3D-SO-GCN/main/seabed.PNG) |
+| ![sample](https://raw.githubusercontent.com/cjuliani/tf-3D-SS-GCN/main/seabed.PNG) |
 |:--:|
 | *3D visualization of seabed terrain (deep-sea volcanic environment). Examples of structures of interest are enclosed in boxes.*
