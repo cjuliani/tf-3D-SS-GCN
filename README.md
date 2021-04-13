@@ -1,7 +1,7 @@
 # 3D Seabed Structure Detection via Graph Convolution Network
 ![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) <br>
 
-- Object detection from point cloud sonar data in the context of e.g. exploring seabed minerals (seamounts).
+- Geologic structure detection from point cloud sonar data in the context of e.g. exploring seabed minerals (seamounts).
 
 `Ongoing work. Code source to be published soon.`
 
