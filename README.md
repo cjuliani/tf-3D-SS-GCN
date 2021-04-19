@@ -8,4 +8,4 @@
 
 | ![sample](https://raw.githubusercontent.com/cjuliani/tf-3D-SS-GCN/main/pointcloud.PNG) |
 |:--:|
-| *Point cloud seabed terrain. Examples of structures of interest are enclosed in boxes.*
+| *Point cloud seabed terrain (deep-sea volcanic environment). Examples of structures of interest are enclosed in boxes.*
