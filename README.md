@@ -1,7 +1,7 @@
-# 3D Seabed Structure Detection via Graph Convolution Network
+# 3D point cloud object detection in surface models via deep voting
 ![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) <br>
 
-- Geologic structure detection from point cloud sonar data (seamounds).
+- Case study: geologic structure (mounds) from sonar data.
 
 `Ongoing work. Code source to be published soon.`
 
