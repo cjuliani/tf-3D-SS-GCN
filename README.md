@@ -3,7 +3,7 @@
 
 - Case study: geologic structure (mounds) from sonar data.
 
-`Ongoing work. Code source to be published soon.`
+`Ongoing work. Code source to be updated.`
 
 
 | ![sample](https://raw.githubusercontent.com/cjuliani/tf-3D-SS-GCN/main/site1.PNG) |
